@@ -10,6 +10,13 @@ form{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    width: 50%;
-    border: 1px solid magenta;
+    width: 30%;
+    /* border: 1px solid magenta; */
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    /* border: 1px solid salmon; */
 }
